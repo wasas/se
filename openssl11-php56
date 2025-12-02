@@ -1314,3 +1314,4 @@ index 828be8f..06e4e55 100644
  #endif
  
  			*signature_len = phar_hex_str((const char*)sig, sig_len, signature TSRMLS_CC);
+ 
